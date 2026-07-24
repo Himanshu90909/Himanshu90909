@@ -63,11 +63,11 @@
 
 ---
 
-<h3 align="center">⚡ Live GitHub Stats ⚡</h3>
+<h3 align="center">⚡ Himanshu's GitHub Stats ⚡</h3>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Himanshu90909&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F&text_color=C9D1D9" alt="Himanshu's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Himanshu90909&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="Himanshu's GitHub Stats" />
   </a>
 </p>
 
@@ -75,9 +75,29 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu90909&theme=dark&hide_border=true&background=0D1117&stroke=00FF9F&ring=00FF9F&fire=00FF9F&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&currStreakLabel=00FF9F" alt="GitHub Streak" />
 </p>
 
+---
+
+<h3 align="center">📊 Top Languages</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&layout=compact&count_private=true" alt="Top Languages (Compact)" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&layout=donut&count_private=true" alt="Top Languages (Donut)" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&layout=donut-vertical&count_private=true" alt="Top Languages (Donut Vertical)" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&layout=pie&count_private=true" alt="Top Languages (Pie)" />
+</p>
+
+---
+
+<h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu90909&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9F&line=00FF9F&point=FFFFFF" alt="Contribution Graph" />
@@ -185,14 +205,10 @@
   <a href="mailto:sutharindustry@gmail.com"><img src="https://img.shields.io/badge/Email-sutharindustry@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/himanshu-suthar-99ba4537a"><img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Suthar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Himanshu90909"><img src="https://img.shields.io/badge/GitHub-Himanshu90909-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/Himanshu90909/AI-Summer-Internship"><img src="https://img.shields.io/badge/Internship-AI%20Summer%202026-00FF9F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://silent-neural-archive-core.base44.app"><img src="https://img.shields.io/badge/App-silent--neural--archive--core.base44.app-00FF9F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ahpv1/generate?name=Himanshu90909&text=AI+Engineer&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9" alt="Profile Views" />
-</p>
 
 <p align="center"><em>Hacking GitHub profiles since 2026. Built for MirAI School of Technology Virtual Summer Internship.</em></p>
 
