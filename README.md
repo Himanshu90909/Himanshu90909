@@ -77,22 +77,26 @@
 
 ---
 
-<h3 align="center">📊 Top Languages</h3>
+<h3 align="center">📊 Top Languages — All</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&layout=compact&count_private=true" alt="Top Languages (Compact)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&layout=compact&langs_count=10&count_private=true" alt="Top Languages (Compact)" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&layout=donut&count_private=true" alt="Top Languages (Donut)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&layout=donut&langs_count=10&count_private=true" alt="Top Languages (Donut)" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&layout=donut-vertical&count_private=true" alt="Top Languages (Donut Vertical)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&layout=donut-vertical&langs_count=10&count_private=true" alt="Top Languages (Donut Vertical)" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&layout=pie&count_private=true" alt="Top Languages (Pie)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&layout=pie&langs_count=10&count_private=true" alt="Top Languages (Pie)" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&langs_count=10&count_private=true" alt="Top Languages (Full Bar)" />
 </p>
 
 ---
