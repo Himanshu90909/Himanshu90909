@@ -63,30 +63,6 @@
 
 ---
 
-<h3 align="center">📊 Top Languages — All</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&layout=compact&langs_count=10&count_private=true" alt="Top Languages (Compact)" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&layout=donut&langs_count=10&count_private=true" alt="Top Languages (Donut)" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&layout=donut-vertical&langs_count=10&count_private=true" alt="Top Languages (Donut Vertical)" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&layout=pie&langs_count=10&count_private=true" alt="Top Languages (Pie)" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu90909&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9&langs_count=10&count_private=true" alt="Top Languages (Full Bar)" />
-</p>
-
----
-
 <h3 align="center">💻 Languages & Tech I Use</h3>
 
 <p align="center">
@@ -131,14 +107,6 @@
   <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-</p>
-
----
-
-<h3 align="center">📈 Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu90909&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9F&line=00FF9F&point=FFFFFF" alt="Contribution Graph" />
 </p>
 
 ---
