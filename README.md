@@ -1,65 +1,61 @@
 ```text
-┌──────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                                      │
-│   ██████  ██ ████████ ██   ██      ██████  ███████ ███    ██ ██ ██   ██     ██████  ██    ██ ███    ███  │
-│  ██       ██    ██    ██   ██     ██       ██      ████   ██ ██ ██  ██           ██ ██    ██ ████  ████  │
-│  ██   ███ ██    ██    ███████     ██   ███ █████   ██ ██  ██ ██ █████      █████  ██    ██ ██ ████ ██  │
-│  ██    ██ ██    ██    ██   ██     ██    ██ ██      ██  ██ ██ ██ ██  ██     ██       ██    ██ ██  ██  ██  │
-│   ██████  ██    ██    ██   ██      ██████  ███████ ██   ████ ██ ██   ██     ██████  ██████  ██  ██  ██  │
-│                                                                                                      │
-│                                                                                                      │
-│   ██████  ██   ██  ██████  ███████ ███████     ██      ████████  ██████      ██████  ██    ██  ██████   │
-│  ██    ██ ██   ██ ██    ██ ██      ██           ██         ██    ██   ██     ██   ██ ██    ██ ██        │
-│  ██    ██ ███████ ██    ██ █████   ███████      ██         ██    ██████      ██████  ██    ██ ██   ███  │
-│  ██    ██ ██   ██ ██    ██ ██      ██           ██         ██    ██   ██     ██   ██ ██    ██ ██    ██  │
-│   ██████  ██   ██  ██████  ███████ ███████      ███████    ██    ██   ██     ██████   ██████   ██████   │
-│                                                                                                      │
-└──────────────────────────────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                         │
+│   ██╗  ██╗██╗███████╗██╗   ██╗    ██╗  ██╗██╗   ██╗███████╗    ██╗  ██╗██╗   ██╗███████╗███████╗██████╗   │
+│   ██║  ██║██║██╔════╝╚██╗ ██╔╝    ██║ ██╔╝██║   ██║██╔════╝    ██║ ██╔╝██║   ██║██╔════╝██╔════╝██╔══██╗  │
+│   ███████║██║█████╗   ╚████╔╝     █████╔╝ ██║   ██║███████╗    █████╔╝ ██║   ██║█████╗  █████╗  ██████╔╝  │
+│   ██╔══██║██║██╔══╝    ╚██╔╝     ██╔═██╗ ██║   ██║╚════██║    ██╔═██╗ ██║   ██║██╔══╝  ██╔══╝  ██╔══██╗  │
+│   ██║  ██║██║██║        ██║      ██║  ██╗╚██████╔╝███████║    ██║  ██╗╚██████╔╝███████╗███████╗██║  ██║  │
+│   ╚═╝  ╚═╝╚═╝╚═╝        ╚═╝      ╚═╝  ╚═╝ ╚═════╝ ╚══════╝    ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝  │
+│                                                                                                         │
+│         ███████╗██╗  ██╗███████╗██╗     ██╗                                                              │
+│         ██╔════╝██║  ██║██╔════╝██║     ██║                                                              │
+│         █████╗  ███████║█████╗  ██║     ██║                                                              │
+│         ██╔══╝  ██╔══██║██╔══╝  ██║     ██║                                                              │
+│         ██║     ██║  ██║███████╗███████╗███████╗                                                         │
+│         ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝                                                        │
+│                                                                                                         │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 
-    ╔═══════════════════════════════════════╗
-    ║          AI ENGINEER · B.TECH CSE     ║
-    ║         AI & ML · LOVELY PROFESSIONAL  ║
-    ║              UNIVERSITY               ║
-    ╚═══════════════════════════════════════╝
-
-    OS ......... Linux (Arch + i3wm)  [mirAI OS]
+    OS ......... Windows 11 + WSL2 (Ubuntu)
     Host ....... Himanshu Suthar
     Uptime ..... 19 years, 8 months
-    Kernel ..... MirAI B.Tech CSE (AI & ML)
-    Shell ...... python3.11 / node.js / bash
-    Terminal ... Hyper + tmux + zsh
-    Editor ..... Neovim + VS Code
+    Kernel ..... MirAI B.Tech CSE (AI & ML) — LPU
+    Shell ...... python3.11 / bash / zsh
+    Terminal ... VS Code Terminal + tmux
+    Editor ..... VS Code + Neovim
     CPU ........ Intel i7 @ Learning Speed
-    GPU ........ RTX 4060 @ Inference Power
+    GPU ........ NVIDIA RTX @ Inference Power
 
-    Languages .. Python, JavaScript, TypeScript, SQL, C++
-    AI/LLM ....  CrewAI, OpenAI, Anthropic, Grok, LangChain
-    RAG ........ Vector Search, Embeddings, FastAPI Pipelines
-    Web ........ React, Node.js, FastAPI, REST APIs, Supabase
-    ML ......... Scikit-learn, PyTorch, TensorFlow, Pandas
-    Cloud ...... Docker, Google Cloud (Cloud Run, BigQuery)
-    Tools ...... Git, n8n, JIRA, Agile/SDLC, Unit Testing
+    Languages .. Python, JavaScript, TypeScript, React, SQL, C++
+    AI/LLM ....  Gemini API, Pollinations AI, gTTS, CrewAI, LangChain
+    Frameworks . Streamlit, React, TailwindCSS, FastAPI, Node.js
+    ML ......... Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib
+    Tools ...... Git, Docker, n8n, JIRA, Agile/SDLC
 
-    Hobbies .... AI Engineering, Multi-Agent Systems
-    ........... Gaming, Robotics, Open Source
+    Hobbies .... AI Engineering, Multi-Agent Systems, Gaming
+    ........... Open Source, Robotics, Data Visualization
     Status ..... Building AI systems that ship 🚀
     Contact .... sutharindustry@gmail.com
     LinkedIn ... /in/himanshu-suthar-99ba4537a
-    Portfolio .. si14.oneapp.dev
+    GitHub ..... /Himanshu90909
 
-    ╭─────────────────────────────────────────────────╮
-    │  $ git clone https://github.com/Himanshu90909    │
-    │  Cloning into 'AI-Engineer'...                   │
-    │  Receiving objects: 100% (12/12), 42.0 MiB | 5MB │
-    │  Resolving deltas: 100% (8/8), done.             │
-    │  $ python3 -m himanshu --mode=build              │
-    │  ✅ Multi-Agent Fraud Detection  ... LOADED      │
-    │  ✅ RAG Pipeline (FastAPI)        ... LOADED      │
-    │  ✅ n8n + LLM Email Classifier   ... LOADED      │
-    │  ✅ Healthcare AI (98.3% acc)     ... LOADED      │
-    │  ✅ SportChat (Grok API)         ... LOADED      │
-    │  🚀 All systems operational. Ready to deploy.    │
-    ╰─────────────────────────────────────────────────╯
+    ╭──────────────────────────────────────────────────────╮
+    │  $ git clone https://github.com/Himanshu90909        │
+    │  Cloning into 'AI-Summer-Internship'...               │
+    │  Receiving objects: 100% (7/7), done.                 │
+    │                                                      │
+    │  $ ls -la AI-Summer-Internship/                       │
+    │  drwxr-xr-x  Task-1    Echo Chamber 9000 (HTML/CSS)  │
+    │  drwxr-xr-x  Task-2    Multiverse AI Chat (HTML/JS)  │
+    │  drwxr-xr-x  Task-3    Multiverse Chatbot (Streamlit) │
+    │  drwxr-xr-x  Task-4    Task Manager App (React)       │
+    │  -rwxr-xr-x  app.py    Visual Novel Engine (Capstone) │
+    │  drwxr-xr-x  src/      AI Image Studio (React+Vite)   │
+    │  drwxr-xr-x  resume/   Resume + Application Materials │
+    │                                                      │
+    │  ✅ All systems operational. Ready to deploy. 🚀      │
+    ╰──────────────────────────────────────────────────────╯
 
     > "I don't just write code — I build AI systems that think."
     >                                          — Himanshu Suthar
@@ -67,7 +63,7 @@
 
 ---
 
-<h3 align="center">⚡ Live GitHub Stats & Activity ⚡</h3>
+<h3 align="center">⚡ Live GitHub Stats ⚡</h3>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -89,31 +85,86 @@
 
 ---
 
-<h3 align="center">🎯 Featured Projects</h3>
+<h3 align="center">🎯 MirAI AI Builder Track — Summer Internship 2026</h3>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h4>🤖 Fraud Detection — CrewAI Multi-Agent</h4>
-      <p>4 specialized agents · Tool-calling · Z-score anomaly detection</p>
-      <a href="https://github.com/Himanshu90909"><sub>GitHub →</sub></a>
+      <h4>🎭 Task-1: Echo Chamber 9000</h4>
+      <p>Terminal-style chat interface with IBM Plex Mono design, amber-on-dark aesthetic, and retro CRT styling</p>
+      <a href="https://github.com/Himanshu90909/AI-Summer-Internship/blob/main/Task-1"><sub>GitHub →</sub></a>
     </td>
     <td align="center" width="50%">
-      <h4>📧 n8n + LLM Email Classifier</h4>
-      <p>14-node workflow · Gmail/Slack/Calendar routing · FastAPI</p>
-      <a href="https://github.com/Himanshu90909"><sub>GitHub →</sub></a>
+      <h4>🌐 Task-2: Multiverse AI</h4>
+      <p>ChatGPT-inspired web UI with sidebar navigation, conversation management, and clean modern design</p>
+      <a href="https://github.com/Himanshu90909/AI-Summer-Internship/blob/main/Task%20-%202"><sub>GitHub →</sub></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h4>🔍 RAG Pipeline — FastAPI + Vector Search</h4>
-      <p>Document chunking · Embeddings · Similarity search · LLM grounding</p>
-      <a href="https://github.com/Himanshu90909"><sub>GitHub →</sub></a>
+      <h4>🌌 Task-3: Multiverse Chatbot</h4>
+      <p>Streamlit + Gemini API chatbot with 4 AI personalities (Friendly, Sarcastic, Wizard, Pirate) and session state</p>
+      <a href="https://github.com/Himanshu90909/AI-Summer-Internship/blob/main/Task%20-%203"><sub>GitHub →</sub></a>
     </td>
     <td align="center" width="50%">
-      <h4>🏥 Healthcare AI — Clinical Intelligence</h4>
-      <p>8 ML algorithms · 98.3% accuracy · 0.997 AUC · FastAPI backend</p>
-      <a href="https://si14.oneapp.dev"><sub>Live →</sub></a>
+      <h4>📋 Task-4: Task Manager App</h4>
+      <p>React 18 + TailwindCSS task management app with categories, priorities, due dates, dark/light mode, and drag & drop</p>
+      <a href="https://github.com/Himanshu90909/AI-Summer-Internship/blob/main/Task%20-%204"><sub>GitHub →</sub></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🎬 Capstone: Visual Novel Engine</h4>
+      <p>Choose-Your-Own-Adventure engine with Gemini JSON parsing, Pollinations image gen, gTTS narration, and dynamic UI</p>
+      <a href="https://github.com/Himanshu90909/AI-Summer-Internship/blob/main/app.py"><sub>GitHub →</sub></a>
+    </td>
+    <td align="center" width="50%">
+      <h4>🎨 AI Image Studio</h4>
+      <p>React + Vite image generation app with multiple art styles, custom dimensions, and save functionality</p>
+      <a href="https://github.com/Himanshu90909/AI-Summer-Internship/tree/main/src"><sub>GitHub →</sub></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">🤖 AI & ML Projects</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h4>🛡️ Fraud Detection — CrewAI</h4>
+      <p>Multi-agent fraud detection system with 4 specialized AI agents</p>
+      <a href="https://github.com/Himanshu90909/fraud-detection-crewai"><sub>GitHub →</sub></a>
+    </td>
+    <td align="center" width="50%">
+      <h4>🔍 RAG Pipeline — GenAI LLM</h4>
+      <p>Retrieval-Augmented Generation with vector search and embeddings</p>
+      <a href="https://github.com/Himanshu90909/Generative-AI-LLM-RAG---Skill-Up-"><sub>GitHub →</sub></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🎬 Cineml System</h4>
+      <p>Movie recommender with CF/CBF/Hybrid algorithms, match scores, and taste profiling</p>
+      <a href="https://github.com/Himanshu90909/Cineml-System"><sub>GitHub →</sub></a>
+    </td>
+    <td align="center" width="50%">
+      <h4>🎓 CampusIQ</h4>
+      <p>College recommendation system built for student guidance</p>
+      <a href="https://github.com/Himanshu90909/CampusIQ"><sub>GitHub →</sub></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>📊 Data Analyst — IMDB Scraper</h4>
+      <p>Web scraping IMDB movie ratings with data analysis and visualization</p>
+      <a href="https://github.com/Himanshu90909/Data-Analyst"><sub>GitHub →</sub></a>
+    </td>
+    <td align="center" width="50%">
+      <h4>🏠 House Price Prediction</h4>
+      <p>Linear regression model for real estate price forecasting</p>
+      <a href="https://github.com/Himanshu90909/House-Prediction-Linear-Regression"><sub>GitHub →</sub></a>
     </td>
   </tr>
 </table>
@@ -123,7 +174,7 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,fastapi,git,docker,github,vscode,postgres&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,streamlit,git,docker,github,vscode,postgres&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
@@ -134,7 +185,7 @@
   <a href="mailto:sutharindustry@gmail.com"><img src="https://img.shields.io/badge/Email-sutharindustry@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/himanshu-suthar-99ba4537a"><img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Suthar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Himanshu90909"><img src="https://img.shields.io/badge/GitHub-Himanshu90909-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://si14.oneapp.dev"><img src="https://img.shields.io/badge/Portfolio-si14.oneapp.dev-00FF9F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://github.com/Himanshu90909/AI-Summer-Internship"><img src="https://img.shields.io/badge/Internship-AI%20Summer%202026-00FF9F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
 ---
@@ -145,7 +196,7 @@
 
 <p align="center"><em>Hacking GitHub profiles since 2026. Built for MirAI School of Technology Virtual Summer Internship.</em></p>
 
-<!-- 
+<!--
   ──────────────────────────────────────────────────
   README generated by HB Intelligence
   MirAI School of Technology — AI Builder Track
